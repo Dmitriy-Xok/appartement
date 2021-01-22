@@ -1,1 +1,11 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 13" width="20" height="13">
+	<defs>
+		<image width="20" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANAQMAAACTntwdAAAAAXNSR0IB2cksfwAAAAZQTFRFERER////2HbAKwAAAAJ0Uk5T/wDltzBKAAAAEklEQVR4nGNggIL//z8QxFAAAK5lGl9W1dOnAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="HEADER">
+		<use id="Layer 7 copy 2" href="#img1" x="0" y="0" />
+	</g>
+</svg>
