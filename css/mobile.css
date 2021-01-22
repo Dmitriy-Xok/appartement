@@ -1,1 +1,65 @@
-
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: 0px;
+    padding: 0px; 
+    color: #111111;;
+}
+#burger {
+    position: fixed;
+    display: block; 
+    background: url(../img/burger.svg) no-repeat;
+    width: 20px;
+    height: 13px;        
+    right: 60px;
+    top: 54px;
+    z-index: 0;   
+}
+.conteiner {
+    width: 640px;
+}
+header p {
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    font-weight: bold;
+    margin: 58px 0px 80px 58px;
+}
+header h3 {
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    font-weight: 300;
+    margin: 0px 0px 52px 61px;
+}
+.text {
+    margin: 74px 61px 44px 60px;
+}
+.text p {
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 36px;
+    margin-bottom: 55px;
+}
+.img14 {
+    text-align: right;
+    padding: 73px 0px 73px 0px;
+}
+.img16 {
+    padding: 73px 0px 73px 0px;
+}
+.img17 {
+    text-align: right;
+    padding-bottom: 196px;
+}
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;    
+}
+footer p {
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    font-weight: 300;
+    margin: 0px 0px 50px 0px;
+}
